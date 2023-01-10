@@ -17,12 +17,12 @@ zero knowledge proving systems, FHE, MPC, iO and others;
 
 ## Session 2 (Nov 25)
 
-*"insert week summary"*
+- Covering Chapter 2 (introduction)
 
 
 ## Session 3 (Dec 2)
 
-*"insert week summary"*
+- Covering Chapters 3 and 4 on Block Ciphers and Block Cipher Modes
 
 
 ## Session 4 (Dec 9)
