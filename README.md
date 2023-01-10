@@ -27,4 +27,4 @@ zero knowledge proving systems, FHE, MPC, iO and others;
 
 ## Session 4 (Dec 9)
 
-*"insert week summary"*
+- Covering Chapters 5 and 6 on **Hash Functions** and MACs
