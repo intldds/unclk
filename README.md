@@ -33,3 +33,5 @@ zero knowledge proving systems, FHE, MPC, iO and others;
 ## Session 5 (Dec 16)
 
 - Covering Chapter 8 on **implementation issues**
+
+- Rust's compiler enforces, by default, correctness in many ways. NSA urges orgs to use memory-safe programming languages.
