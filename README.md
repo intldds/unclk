@@ -55,4 +55,4 @@ Chapter 10: **primes**
 
 ## Session 8 (Jan 20)
 
-Read Chapters 11 and 12 on **Diffie Helman** and **RSA**.
+Read Chapters 11 and 12 on **Diffie-Hellman** and **RSA**.
