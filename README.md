@@ -44,6 +44,15 @@ zero knowledge proving systems, FHE, MPC, iO and others;
 Techniques to obtain compile-time guarantees with Rust. Still chapter 8 about implementation issues.
 
 
-## Session 7 (Jan 14)
+## Session 7 (Jan 13)
 
-Chapters 9 and 10: randomness and primes
+Chapter 9: **randomness**
+- How entropy is generated and used to seed a block-cipher based CSPRNG should be the central focus of this chapter.
+
+Chapter 10: **primes**
+- The Extended Euclidean Algorithm and the Miller Rabin Primality test are of central focus in this chapter.
+
+
+## Session 8 (Jan 20)
+
+Read Chapters 11 and 12 on **Diffie Helman** and **RSA**.
