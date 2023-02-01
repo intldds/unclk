@@ -36,4 +36,14 @@ zero knowledge proving systems, FHE, MPC, iO and others;
 
 - Rust's compiler enforces, by default, correctness in many ways. NSA urges orgs to use memory-safe programming languages.
 
-- Continuous Integration (CI) should deny changes to your codebase that fail tests, linting, and typically formatting as well. 
+- Continuous Integration (CI) should deny changes to your codebase that fail tests, linting, and typically formatting as well.
+
+
+## Session 6 (Jan 6)
+
+Techniques to obtain compile-time guarantees with Rust. Still chapter 8 about implementation issues.
+
+
+## Session 7 (Jan 14)
+
+Chapters 9 and 10: randomness and primes
