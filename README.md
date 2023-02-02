@@ -56,4 +56,12 @@ Chapter 10: **primes**
 
 ## Session 8 (Jan 20)
 
-Read Chapters 11 and 12 on **Diffie-Hellman** and **RSA**.
+Read Chapters 11 and 12 on **Diffie-Hellman** (DH) and **RSA**.
+
+Chapter 11 presents an introduction to the DH protocol in the context of a multiplicative group.
+Groups, DH, Man in the Middle attacks, and safe primes are fundamental objects in asymmetric cryptography.
+
+Chapter 12 introduces several results, before presenting RSA encryption. Introduction to The Chinese Remainder Theorem (CRT).
+
+
+## Session 9 (Jan 27)
