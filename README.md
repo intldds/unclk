@@ -51,6 +51,7 @@ Chapter 9: **randomness**
 
 Chapter 10: **primes**
 - The Extended Euclidean Algorithm and the Miller Rabin Primality test are of central focus in this chapter.
+- Number Theory is very important
 
 
 ## Session 8 (Jan 20)
