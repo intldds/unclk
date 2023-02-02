@@ -65,3 +65,9 @@ Chapter 12 introduces several results, before presenting RSA encryption. Introdu
 
 
 ## Session 9 (Jan 27)
+
+
+## Session 10 (Feb 3)
+
+For sessions 10-13, we will be switching gears and covering several sections from "An introduction to mathematical cryptography" 
+(henceforth, **ItMC**).
