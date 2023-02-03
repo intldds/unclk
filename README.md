@@ -44,7 +44,7 @@ zero knowledge proving systems, FHE, MPC, iO and others;
 Techniques to obtain compile-time guarantees with Rust. Still chapter 8 about implementation issues.
 
 
-## Session 7 (Jan 13)
+# Session 7 (Jan 13)
 
 Chapter 9: **randomness**
 - How entropy is generated and used to seed a block-cipher based CSPRNG should be the central focus of this chapter.
@@ -54,21 +54,44 @@ Chapter 10: **primes**
 - Number Theory is very important
 
 
-## Session 8 (Jan 20)
+# Session 8 (Jan 20)
 
 Read Chapters 11 and 12 on **Diffie-Hellman** (DH) and **RSA**.
 
 Chapter 11 presents an introduction to the DH protocol in the context of a multiplicative group.
 Groups, DH, Man in the Middle attacks, and safe primes are fundamental objects in asymmetric cryptography.
 
-Chapter 12 introduces several results, before presenting RSA encryption. Introduction to The Chinese Remainder Theorem (CRT).
+Chapter 12 introduces several results, before presenting RSA encryption. Introduction to The **Chinese Remainder Theorem** (CRT).
 
 
 ## Session 9 (Jan 27)
 
 Chapters 13, 14 and 16
 
-## Session 10 (Feb 3)
+# Session 10 (Feb 3)
 
 For sessions 10-13, we will be switching gears and covering several sections from "An introduction to mathematical cryptography" 
 (henceforth, **ItMC**).
+
+This week's coverage is a partial review of chapters 12 and 13 of "Cryptography Engineering".
+
+**On definitions:**
+If you are inexperienced at reading mathematical texts, *some advice*. Of greatest importance are definitions. 
+A thorough student will copy each definition into their notes. All the theorems and results follow directly from the 
+definitions! Much of the difficulty mathematical development is simply obtaining the correct definitions.
+
+Second, try to understand the crux of each algorithm, theorem, lemma, and proposition, and summarizing in a sentence for your reference.
+Example: "Every positive integer has a unique prime factorization", is much easier to remember!
+
+Finally, try to understand the proofs, but don't fret if they don't come naturally to you. Proofs often reveal not 
+only the reasoning behind the theorem, but even motivation to further theorems and corollaries. However, proofs are 
+often the "hardest" part of reading a mathematical text; only spend as much time as is necessary learning 
+proofs: you decide what necessary means.
+
+**Topics of chapter 1 of ItMC**
+- basic facts of divisibility, GCD, the Division Algorithm, the Euclidean Algorithm;
+- Extended Euclidean Algorithm (EEA), which guarantees that we can easily obtain modular inverses;
+- modular arithmetic: Euler's totient function and the Fast Powering Algorithm;
+- revisit the Extended Euclidean Algorithm if it is unclear;
+- Primitive Root Theorem;
+- premise of (binary) encoding schemes.
