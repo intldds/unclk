@@ -66,6 +66,7 @@ Chapter 12 introduces several results, before presenting RSA encryption. Introdu
 
 ## Session 9 (Jan 27)
 
+Chapters 13, 14 and 16
 
 ## Session 10 (Feb 3)
 
