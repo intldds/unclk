@@ -105,3 +105,12 @@ proofs: you decide what necessary means.
 The reading for this week is An Introduction to Mathematical Cryptography Chapter 2.1-2.4, 2.6, 2.7 
 A mathematical review of Discrete Log. 
 This chapter provides background on the ubiquitous discrete log problem.
+
+
+# Session 12 (Feb 17)
+
+The reading for this week is An Introduction to Mathematical Cryptography Chapter 4.3 on Probability Theory, 
+and 7.1-3 on digital signatures.
+
+The main two signature techniques in practice are those of Schnorr (aka EdDSA, used for instance), and ECDSA, 
+with the industry largely moving away from RSA. We will not discuss BLS signatures in this lecture, but we may return to them in week 15.
