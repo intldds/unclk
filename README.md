@@ -113,9 +113,13 @@ The reading for this week is An Introduction to Mathematical Cryptography Chapte
 and 7.1-3 on digital signatures.
 
 The main two signature techniques in practice are those of Schnorr (aka EdDSA, used for instance), and ECDSA, 
-with the industry largely moving away from RSA. We will not discuss BLS signatures in this lecture, but we may return to them in week 15.
+with the industry largely moving away from RSA. We will not discuss BLS signatures in this lecture, but we may return 
+to them in week 15.
 
 
-# Session 13 (Feb 24)
+# Session 13 [ Feb 24 :-) ]
 
 **Elliptic curves**
+
+Sections 5.1-5.5 give the basic facts of elliptic curves.
+Section 5.8 on bilinear pairings is optional, but will be relevant when we discuss BLS signatures in week 15.
