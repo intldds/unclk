@@ -98,3 +98,10 @@ proofs: you decide what necessary means.
 - revisit the Extended Euclidean Algorithm if it is unclear;
 - Primitive Root Theorem;
 - premise of (binary) encoding schemes.
+
+
+# Session 11 (Feb 10)
+
+The reading for this week is An Introduction to Mathematical Cryptography Chapter 2.1-2.4, 2.6, 2.7 
+A mathematical review of Discrete Log. 
+This chapter provides background on the ubiquitous discrete log problem.
