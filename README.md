@@ -68,6 +68,9 @@ Chapter 12 introduces several results, before presenting RSA encryption. Introdu
 
 Chapters 13, 14 and 16
 
+Most of chapter 13 may be skipped, though 13.5.6 on replay attacks is worth covering.
+Chapter 14 on key negotiation explores a protocol to obtain a secret session key from an existing secret shared key, for forward secrecy. It's worth a light read of chapter 16.
+
 # Session 10 (Feb 3)
 
 For sessions 10-13, we will be switching gears and covering several sections from "An introduction to mathematical cryptography" 
