@@ -114,3 +114,8 @@ and 7.1-3 on digital signatures.
 
 The main two signature techniques in practice are those of Schnorr (aka EdDSA, used for instance), and ECDSA, 
 with the industry largely moving away from RSA. We will not discuss BLS signatures in this lecture, but we may return to them in week 15.
+
+
+# Session 13 (Feb 24)
+
+**Elliptic curves**
